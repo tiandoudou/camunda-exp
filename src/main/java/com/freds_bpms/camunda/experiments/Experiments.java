@@ -13,4 +13,6 @@ import org.camunda.bpm.application.impl.ServletProcessApplication;
 @ProcessApplication("Experiments")
 public class Experiments extends ServletProcessApplication {
 	// empty
+	// Next: HTML forms & Java service tasks
+	// Next: Configure Maven to install directly into tomcat webapps directory
 }
